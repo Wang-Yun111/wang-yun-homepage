@@ -39,7 +39,7 @@ document.querySelectorAll('a').forEach(link => {
     link.textContent = 'Gmail';
     link.href = 'mailto:wangyunbuaa@gmail.com';
   }
-  if (label === 'CV') {
+  if (label === 'CV' || label.startsWith('CV ')) {
     link.style.display = 'none';
   }
 });
