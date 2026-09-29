@@ -1,0 +1,35 @@
+{
+  "siteUrl": "https://your-name.pages.dev",
+  "name": "Wang Yun",
+  "nameZh": "王云",
+  "initials": "WY",
+  "role": "Ph.D. Student",
+  "affiliation": "School of Astronautics · Beihang University",
+  "location": "Beijing, China",
+  "headline": "Multimodal Perception & Representation Learning",
+  "intro": "I study how machines build robust representations of complex physical environments from heterogeneous sensory information.",
+  "email": "your-email@buaa.edu.cn",
+  "github": "https://github.com/Wang-Yun111",
+  "scholar": "https://scholar.google.com/",
+  "cv": "/cv.pdf",
+  "research": [
+    {
+      "index": "01",
+      "title": "Multimodal Representation",
+      "desc": "Alignment, fusion and transferable representations across heterogeneous modalities.",
+      "tags": ["Alignment", "Fusion", "Representation"]
+    },
+    {
+      "index": "02",
+      "title": "Multi-Sensor Perception",
+      "desc": "Robust perception and state estimation with complementary visual and geometric sensors.",
+      "tags": ["RGB", "LiDAR", "Infrared", "Radar"]
+    },
+    {
+      "index": "03",
+      "title": "3D & Scientific Multimodal AI",
+      "desc": "Structured multimodal learning for 3D scenes and scientific observations.",
+      "tags": ["3D Vision", "Geophysical Data", "Scientific AI"]
+    }
+  ]
+}
