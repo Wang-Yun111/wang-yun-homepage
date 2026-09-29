@@ -8,10 +8,12 @@
   "location": "Beijing, China",
   "headline": "Multimodal Perception & Representation Learning",
   "intro": "I study how machines build robust representations of complex physical environments from heterogeneous sensory information.",
-  "email": "your-email@buaa.edu.cn",
+  "email": "wangyunbuaa@buaa.edu.cn",
+  "emailAlt": "wangyunbuaa@gmail.com",
+  "profileImage": "/images/profile.jpg",
   "github": "https://github.com/Wang-Yun111",
-  "scholar": "https://scholar.google.com/",
-  "cv": "/cv.pdf",
+  "scholar": "",
+  "cv": "",
   "research": [
     {
       "index": "01",
