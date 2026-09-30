@@ -1,13 +1,13 @@
 {
   "siteUrl": "https://wang-yun-homepage.pages.dev",
-  "name": "Wang Yun",
-  "nameZh": "王云",
+  "name": "Yun Wang",
+  "nameZh": "王赟",
   "initials": "WY",
   "role": "Ph.D. Student",
-  "affiliation": "School of Astronautics · Beihang University",
+  "affiliation": "School of Astronautics, Beihang University",
   "location": "Beijing, China",
   "headline": "Multimodal Perception & Representation Learning",
-  "intro": "I study how machines build robust representations of complex physical environments from heterogeneous sensory information.",
+  "intro": "My research interests lie broadly in Computer Vision and Multimodal Learning, with a focus on multimodal representation learning and multi-sensor perception.",
   "email": "wangyunbuaa@buaa.edu.cn",
   "emailAlt": "wangyunbuaa@gmail.com",
   "profileImage": "/images/profile.jpg",
@@ -18,7 +18,7 @@
     {
       "index": "01",
       "title": "Multimodal Representation",
-      "desc": "Alignment, fusion and transferable representations across heterogeneous modalities.",
+      "desc": "Alignment, fusion, and transferable representations across heterogeneous modalities.",
       "tags": ["Alignment", "Fusion", "Representation"]
     },
     {
